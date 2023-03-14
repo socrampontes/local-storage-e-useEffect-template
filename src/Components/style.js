@@ -6,7 +6,7 @@ export const Form = styled.div`
   align-items: center;
   justify-content: center;
   gap: 10px;
-  width: 40%;
+  
 `;
 
 export const Container = styled.div`
